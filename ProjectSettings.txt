@@ -1,0 +1,6 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+ProjectSettings placeholder - open Unity Editor to generate real ProjectSettings files.
+Recommended Unity version: 2022.3 LTS or compatible.
+Package Name: com.harharmahadev.battle
+Default scenes: place your main scene in Assets/Scenes and name it Main.unity

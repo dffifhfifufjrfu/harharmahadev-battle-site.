@@ -1,0 +1,7 @@
+PC Guide — Full Extraction (Recommended)
+========================================
+1) Move the extracted files from phone to PC (USB, Drive, etc.).
+2) Install AssetRipper (or Unity Asset Studio).
+3) File -> Open Folder -> select the folder containing *.assets / *.resource / *.resS.
+4) After processing, Export -> choose "Type Tree" export for clean folders per type.
+5) Copy the exported assets into this template by category and re-zip.

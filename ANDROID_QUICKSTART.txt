@@ -1,0 +1,7 @@
+Android-Only Quickstart (No PC)
+===============================
+1) Export APK (APK Exporter).
+2) Open APK in MT Manager -> assets/bin/Data -> extract *.assets, *.resource, *.resS, globalgamemanagers, level*.
+3) Try "Assets Browser" inside MT Manager to view textures & audio; export what you can.
+4) Place exports into this template by category.
+5) Use ZArchiver to compress the main folder into a single ZIP to share or back up.
